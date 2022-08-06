@@ -1,5 +1,11 @@
-public int elad()
+public int elad(int a)
 {
 	int i = 1;
-	return i;
+	return a+i;
+}
+
+public int newElad()
+{
+	int j = 2;
+	return j;
 }
